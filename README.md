@@ -29,6 +29,6 @@ To set up test data.
 * Move the test_data.js file to your robomongo bin directory if you want to view the data in RoboMongo (Optional)
 * Run the following command to set up the database with the tables and test data.
 
-        ``` mongoimport -d RazorLive -c restaurants test_data.json ``` 
+         mongoimport -d RazorLive -c restaurants test_data.json 
 
 Have Fun Coding!
