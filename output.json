@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5a7620e86820a018ce37ff0e"},"restaurant_type":["Indian"],"waiting_time":1,"Last_Rated":{"$date":"2018-02-03T20:51:52.649Z"},"name":"Ruchi","__v":0}
+{"_id":{"$oid":"5a7621e46820a018ce37ff0f"},"restaurant_type":["Indian"],"waiting_time":1,"Last_Rated":{"$date":"2018-02-03T20:56:04.314Z"},"name":"Kurry Leaves","__v":0}
+{"_id":{"$oid":"5a7783354043f722fd455ce5"},"restaurant_type":["Indian"],"waiting_time":1,"Last_Rated":{"$date":"2018-02-04T22:03:33.026Z"},"name":"Godavari","__v":0}
+{"_id":{"$oid":"5a7783644043f722fd455ce6"},"restaurant_type":["Mediterranean"],"waiting_time":1,"Last_Rated":{"$date":"2018-02-04T22:04:20.960Z"},"name":"Olive Cafe","__v":0}
+{"_id":{"$oid":"5a77837e4043f722fd455ce7"},"restaurant_type":["Italian"],"waiting_time":1,"Last_Rated":{"$date":"2018-02-04T22:04:46.194Z"},"name":"Mr. Gyros","__v":0}
