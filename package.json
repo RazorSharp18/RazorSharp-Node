@@ -1,0 +1,31 @@
+{
+  "name": "razorsharp",
+  "version": "1.0.0",
+  "description": "Mock API with data models to fetch restaurant profile.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadioActiveReaction/mock_api_data.git"
+  },
+  "keywords": [
+    "mock",
+    "api"
+  ],
+  "author": "Raihan Ahmed Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadioActiveReaction/mock_api_data/issues"
+  },
+  "homepage": "https://github.com/RadioActiveReaction/mock_api_data#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3"
+  }
+}
